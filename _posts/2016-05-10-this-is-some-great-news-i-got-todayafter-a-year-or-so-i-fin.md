@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "This is some great news I got today.After a year or so I finally got my Grid beta version space.I am very excited an want to share it with you people the fans of ''Peinakothiki'' restaurant."
-datePublished: '2016-05-10T17:34:58.672Z'
-dateModified: '2016-05-10T17:32:50.741Z'
+datePublished: '2016-05-10T17:37:13.543Z'
+dateModified: '2016-05-10T17:36:48.150Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-this-is-some-great-news-i-got-todayafter-a-year-or-so-i-fin.md
@@ -33,4 +33,4 @@ The Grid came out of our need to still develop and keep things going in a prospe
 
 So take a walk on the wild side and see where it gets...
 
-Nikolopoulos Kostantinos
+Nikolopoulos Kostantinos ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90d65663-5258-4aaa-bf9a-f182b57076c7.jpg)
