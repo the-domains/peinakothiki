@@ -1,4 +1,4 @@
-name: 'PEINAKOTHIKI '
+name: 'PEINAKOTHIKI restaurant & catering  '
 favicon: null
 layout_spectrum: 0.30675617838278413
 typography_spectrum: 0.6595143040176481
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#505954'
+    - '#353b37'
+    - '#babbb5'
+    - '#737975'
+    - '#05090a'
   brandStrength: 0.8715873812325299
   lightness: 0.8054575198329985
   saturation: 0.5112082650884986
